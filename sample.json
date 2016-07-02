@@ -1,0 +1,21 @@
+{
+  "browser": {
+    "filename": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "profileDirectory": "C:\\Users\\Luke Carrier\\AppData\\Local\\Google\\Chrome\\User Data",
+    "profiles": [
+      "Default",
+      "Profile 1",
+      "Profile 2"
+    ]
+  },
+  "urls": [
+    {
+      "pattern": "^https?:\/\/(www\\.)?google\\.com",
+      "profile": "Profile 1"
+    },
+    {
+      "pattern": "^https?:\/\/(www\\.)?microsoft\\.com",
+      "profile": "Profile 2"
+    }
+  ]
+}

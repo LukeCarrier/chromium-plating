@@ -11,7 +11,9 @@
         "Microsoft.NETCore.App": {
           "type": "platform",
           "version": "1.0.0"
-        }
+        },
+        "System.Runtime.Serialization.Json": "4.0.*",
+        "System.Runtime.Serialization.Primitives": "4.1.*"
       },
       "imports": "dnxcore50"
     }
