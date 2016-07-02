@@ -1,10 +1,14 @@
 # .NET Core
-/bin/
-/obj/
-/project.lock.json
+/*/bin/
+/*/obj/
+/*/project.lock.json
 
 # StyleCop
-/StyleCop.Cache
+/*/StyleCop.Cache
+
+# VS
+/.vs/
+*.user
 
 # VS Code
 /.vscode/
