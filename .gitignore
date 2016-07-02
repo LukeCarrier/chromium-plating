@@ -3,5 +3,8 @@
 /obj/
 /project.lock.json
 
+# StyleCop
+/StyleCop.Cache
+
 # VS Code
 /.vscode/
