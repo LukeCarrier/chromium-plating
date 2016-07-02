@@ -1,0 +1,7 @@
+# .NET Core
+/bin/
+/obj/
+/project.lock.json
+
+# VS Code
+/.vscode/
